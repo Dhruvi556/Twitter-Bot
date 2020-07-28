@@ -16,13 +16,13 @@ To install a requirement, you can download from the link mentioned.
 
 - Modules required: **selenium, pillow, tk, getpass**. <br>
 - These can be installed by typing the following command in CMD: ```pip3 install requirements.txt```
-<br>
-
+     
+         
 ## Implementation 
 
-- Open CMD, navigate to the working directory. Type in:  ```python Twitter_Bot.py``` <br>
+- Open CMD, navigate to the working directory. Type in:  ```python Twitter_Bot.py``` 
 - If you encounter an error, check if the Python version is 3 and above and the modules are installed correctly.
-- On program execution, input necessary details and select the type of tweet (text/image). <br> <br>
+- On program execution, input necessary details and select the type of tweet (text/image).  
 - If the input details are correct, the bot will tweet from your Twitter account successfully.
 
 ## Notes 
