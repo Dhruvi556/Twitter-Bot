@@ -3,8 +3,8 @@
 ![Twitter](https://user-images.githubusercontent.com/68439180/88697078-ebfce200-d0b8-11ea-8b18-4f0f6434080f.gif)
 
 ## About 
-A twitter bot that automates the process of tweeting text messages and/or images. This was performed by using webscraping tools like selenium.
-Programming Language: Python 3.8.5
+A twitter bot that automates the process of tweeting text messages and/or images. This was performed by using webscraping tools like selenium. <br>
+Programming Language: **Python 3.8.5**
 
 ## Requirements 
 
