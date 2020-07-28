@@ -1,4 +1,5 @@
 # Twitter-Bot :speech_balloon:  
+![Twitter](https://user-images.githubusercontent.com/68439180/88696808-8d376880-d0b8-11ea-96e2-190e3f46741c.gif)
 
 ## About 
 A twitter bot that automates the process of tweeting text messages and/or images. This was performed by using webscraping tools like selenium.
