@@ -8,13 +8,13 @@ Programming Language: **Python 3.8.5**
 
 ## Requirements 
 
-#### System Requirements
+### System Requirements
 To install a requirement, you can download from the link mentioned.
 - **Python 3 and above.**            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Download Python](https://www.python.org/downloads/)
 - **Chrome Webdriver**               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chrome Webdriver Installation](https://chromedriver.chromium.org/downloads) 
 - **PIP for Python in Windows**      &nbsp;&nbsp;&nbsp;&nbsp;[PIP Installation Guide](https://phoenixnap.com/kb/install-pip-windows) <br> <br>
 
-#### Python Module Requirements
+### Python Module Requirements
 
 - Modules required: **selenium, pillow, tk, getpass**. <br>
 - These can be installed by typing the following command in CMD: ```pip3 install requirements.txt```
