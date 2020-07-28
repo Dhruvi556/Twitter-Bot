@@ -30,7 +30,7 @@ To install a requirement, you can download from the link mentioned.
 ## Notes 
 - **Run this code on terminal (or double click the code file) and NOT ON IDLE because IDLE doesn't provide echo free password input.**
 - This bot **only works in _Windows_** (due to directory address configurations which differ in other OS'es.)
-- It is important to **_replace the chrome Webdriver address in line number 13_ with the address of your Webdriver's location address.** 
+- It is important to **_replace the chrome Webdriver address in line number 16_ with the address of your Webdriver's location address.** 
 - After changing the address, **if you receive an error**, convert all the single back-slashes into double back-slashes in the address. **Eg: "\\" becomes "\\\\"**. 
 - The password **will not echo when being typed.**
 
