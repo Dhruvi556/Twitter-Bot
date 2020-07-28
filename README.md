@@ -1,5 +1,6 @@
 # Twitter-Bot :speech_balloon:  
-<img align = "center"> ![Twitter](https://user-images.githubusercontent.com/68439180/88697078-ebfce200-d0b8-11ea-8b18-4f0f6434080f.gif) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Twitter](https://user-images.githubusercontent.com/68439180/88697078-ebfce200-d0b8-11ea-8b18-4f0f6434080f.gif)
 
 ## About 
 A twitter bot that automates the process of tweeting text messages and/or images. This was performed by using webscraping tools like selenium.
@@ -33,3 +34,4 @@ To install a requirement, you can download from the link mentioned.
 - After changing the address, **if you receive an error**, convert all the single back-slashes into double back-slashes in the address. **Eg: "\\" becomes "\\\\"**. 
 - The password **will not echo when being typed.**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
