@@ -25,6 +25,7 @@ To install a requirement, you can download from the link mentioned.
 - Open CMD, navigate to the working directory. Type in:  ```python Twitter_Bot.py``` 
 - If you encounter an error, check if the Python version is 3 and above and the modules are installed correctly.
 - On program execution, input necessary details and select the type of tweet (text/image).  
+- After selecting image option, minimise all tabs inorder to view the dialog box.
 - If the input details are correct, the bot will tweet from your Twitter account successfully.
 
 ## Notes 
