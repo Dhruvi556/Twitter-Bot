@@ -38,7 +38,7 @@ class TBot:
             self.driver.find_element_by_xpath("//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[1]/div/div/div/div/div/div/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div").send_keys(message) #To enter message
             sleep(1)
 
-            self.driver.find_element_by_xpath('//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div[2]/div[3]/div/span').click() #To click Tweet button
+            self.driver.find_element_by_xpath('/html/body/div/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[4]/div/div/div[2]/div[3]/div/span/span').click() #To click Tweet button
 
         elif(choice == 1):
             self.driver.execute_script("window.open('');")                                                                          #To open a new tab
@@ -48,7 +48,7 @@ class TBot:
             
             actionChains = ActionChains(self.driver)
             actionChains.move_to_element(img).key_down(Keys.CONTROL).send_keys('c').key_up(Keys.CONTROL).perform()                  #To copy image to the new tab
-            self.driver.switch_to.window(self.driver.window_handles[0])                                                             #To switch to original Instagram tab
+            self.driver.switch_to.window(self.driver.window_handles[0])                                                             #To switch to original Twitter tab
             sleep(2)
 
             self.driver.find_element_by_class_name('public-DraftStyleDefault-block').send_keys(Keys.CONTROL + "v")                  #To paste image in the original tab
@@ -58,7 +58,7 @@ class TBot:
                 self.driver.find_element_by_xpath("//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[1]/div/div/div/div/div/div/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div").send_keys(imgDescrp) #To enter image description
             sleep(1)
                 
-        self.driver.find_element_by_xpath('//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div[2]/div[3]/div/span').click() #To click Tweet button
+        self.driver.find_element_by_xpath('/html/body/div/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[4]/div/div/div[2]/div[3]/div/span/span').click() #To click Tweet button
         
 username = input("Enter username/email/phone: ")
 password = getpass("Password: ")
